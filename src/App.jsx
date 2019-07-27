@@ -21,8 +21,6 @@ class App extends React.Component {
   }
 
   render() {
-    let inputForName
-
     return (
       <div className="App">
         <h1>Give your name</h1>
